@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="bt_ActBmi">計算</string>
+    <string name="bt_Clear">クリア</string>
+    <string name="tv_age">年齢</string>
+    <string name="tv_height">身長</string>
+    <string name="tv_weight">体重</string>
+    <string name="tv_Ans_txt_1">あなたの肥満度は</string>
+    <string name="tv_Ans_txt_2">あなたの適正体重は</string>
+    <string name="tv_sai">歳</string>
+    <string name="tv_kg">kg</string>
+    <string name="tv_cm">cm</string>
+    <string name="dl_AlertMin16">警告</string>
+    <string name="dl_AlertMSG">適切な肥満度を求めるためには、６歳未満の場合はカウプ指数が、６歳から１５歳まではローレル指数が使われます。本アプリはBMIのみに対応しています。</string>
+    <string name="dl_Alertok">確認</string>
+</resources>
